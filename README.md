@@ -1,1 +1,1 @@
-# outlook-template
+# Outlook HTML Template
